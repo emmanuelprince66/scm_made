@@ -1,0 +1,9 @@
+[[redirects]]
+  from = "/*"
+  to = "/en/home"
+  status = 302
+
+[[redirects]]
+  from = "/"
+  to = "/en/home"
+  status = 302
