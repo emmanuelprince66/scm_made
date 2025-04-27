@@ -3,10 +3,6 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin();
 
-const nextConfig: NextConfig = {
-  output: "export", // Required for Netlify static deployment
-  trailingSlash: true, // Helps with routing
-  images: { unoptimized: true }, //
-};
+const nextConfig: NextConfig = {};
 
 export default withNextIntl(nextConfig);
