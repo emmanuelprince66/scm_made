@@ -1,15 +1,21 @@
+[build]
+  command = "npm run build"
+  publish = "out"
 
+# Redirect root to default locale
 [[redirects]]
   from = "/"
-  to = "/en/home"
+  to = "/en/home/"
   status = 301
 
+# Ensure trailing slashes
 [[redirects]]
-  from = "/en"
-  to = "/en/home"
+  from = "/en/home"
+  to = "/en/home/"
   status = 301
 
+# Client-side routing fallback
 [[redirects]]
   from = "/*"
   to = "/index.html"
-  status = 200
+  status = 200  
