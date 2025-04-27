@@ -1,7 +1,14 @@
-
+[build]
+  command = "npm run build"
+  publish = "out"
 
 [[redirects]]
   from = "/"
+  to = "/en/home"
+  status = 301
+
+[[redirects]]
+  from = "/en"
   to = "/en/home"
   status = 301
 
