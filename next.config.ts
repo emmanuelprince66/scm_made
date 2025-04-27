@@ -1,8 +1,8 @@
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  output: "export", // Static export
-  trailingSlash: true, // Critical for Netlify
-  images: { unoptimized: true }, // Disable image optimization
-};
+import type { NextConfig } from "next";
+import createNextIntlPlugin from "next-intl/plugin";
 
-module.exports = nextConfig;
+const withNextIntl = createNextIntlPlugin();
+
+const nextConfig: NextConfig = {};
+
+export default withNextIntl(nextConfig);
