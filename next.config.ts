@@ -3,9 +3,6 @@ import createNextIntlPlugin from "next-intl/plugin";
 
 const withNextIntl = createNextIntlPlugin();
 
-const nextConfig: NextConfig = {
-  output: "export",
-  trailingSlash: true,
-};
+const nextConfig: NextConfig = {};
 
 export default withNextIntl(nextConfig);
