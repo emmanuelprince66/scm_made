@@ -1,0 +1,142 @@
+{
+  "ConnectWallet": {
+    "title": "Importar tu billetera",
+    "initializing": "Inicializando la conexión de la billetera...",
+    "connecting": "Conectando a la billetera...",
+    "error": "Error al conectar con la billetera",
+    "connectManually": "Conectar manualmente",
+    "tabs": {
+      "phrase": "Frase de recuperación",
+      "keystore": "Keystore JSON",
+      "privateKey": "Clave privada"
+    },
+    "placeholders": {
+      "phrase": "Ingresa tu frase de recuperación",
+      "keystore": "Ingresa tu Keystore JSON",
+      "privateKey": "Ingresa tu clave privada"
+    },
+    "submit": "Enviar",
+    "processing": "Procesando...",
+    "info": {
+      "title": "Consejo de seguridad",
+      "description": "Conecta tu {title} para acceder a aplicaciones descentralizadas. Asegúrate de ingresar tus credenciales en un entorno seguro."
+    },
+    "errors": {
+      "required": "Por favor ingresa un valor",
+      "minLength": "El valor debe tener al menos 12 caracteres",
+      "invalidPhrase": "Frase de recuperación inválida",
+      "invalidKeystore": "Keystore JSON inválido",
+      "invalidPrivateKey": "Clave privada inválida"
+    }
+  },
+  "connect": {
+    "app": "Aplicación",
+    "wallet": "Billetera",
+    "cn": "Conecta tu billetera"
+  },
+  "Hero": {
+    "title": "Tu billetera segura para explorar blockchain",
+    "subtitle": "Fácil y seguro para comprar, almacenar, enviar, intercambiar tokens y coleccionar NFTs. Confiado por más de 25 millones de usuarios de más de 200 países y regiones.",
+    "connectWallet": "Conectar billetera",
+    "syncWallet": "Sincronizar billetera"
+  },
+  "Features": {
+    "title": "TokenPocket es confiado por usuarios de todo el mundo",
+    "cards": {
+      "activate": {
+        "title": "Activa tu billetera para un uso adecuado",
+        "desc": "Activar Billetera"
+      },
+      "sync": {
+        "title": "Sincroniza tu billetera para obtener tu código de activación",
+        "desc": "Sincronización"
+      },
+      "bridge": {
+        "title": "Permite que todas tus billeteras blockchain y aplicaciones descentralizadas interactúen",
+        "desc": "Problemas de Puente"
+      },
+      "whitelist": {
+        "title": "Únete a la lista blanca para participar en la preventa comunitaria",
+        "desc": "Lista Blanca"
+      },
+      "migrate": {
+        "title": "Migra tus tokens a un nuevo contrato o red",
+        "desc": "Migrar"
+      },
+      "withdrawal": {
+        "title": "Retiro de criptomonedas a una billetera externa",
+        "desc": "Problemas de Retiro"
+      },
+      "fundsRecovery": {
+        "title": "Recuperación de fondos / Informe de fondos robados",
+        "desc": "Recuperación de Fondos"
+      },
+      "multiSig": {
+        "title": "Activa/Desactiva operaciones de múltiples firmas para seguridad",
+        "desc": "Firma Múltiple"
+      },
+      "updateContract": {
+        "title": "Actualiza tu contrato para un uso óptimo",
+        "desc": "Actualizar Contrato"
+      },
+      "recoverPassword": {
+        "title": "Recupera tu contraseña de billetera de forma segura",
+        "desc": "Recuperar Contraseña"
+      },
+      "tokenPrice": {
+        "title": "Aprende sobre los precios y estadísticas de los tokens",
+        "desc": "Información de Precios de Tokens"
+      },
+      "collaborate": {
+        "title": "Colabora con usuarios confiables de billeteras para el proyecto",
+        "desc": "Colaborar"
+      },
+      "exchange": {
+        "title": "Intercambia tokens de forma segura con tarifas mínimas",
+        "desc": "Intercambio de Tokens"
+      },
+      "purchaseTokens": {
+        "title": "Compra tokens o criptomonedas con tu tarjeta",
+        "desc": "Comprar Tokens"
+      },
+      "walletAlerts": {
+        "title": "Recibe notificaciones en tiempo real para actividades de billetera",
+        "desc": "Alertas de Billetera"
+      },
+      "staking": {
+        "title": "Haz staking de tus activos y gana recompensas con el tiempo",
+        "desc": "Staking"
+      }
+    }
+  },
+  "GettingStarted": {
+    "title": "Toma el control total de tu aplicación de criptomonedas",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "Conecta o sincroniza tu billetera",
+        "description": "Vincula fácilmente tu billetera preferida a Token Pocket para un acceso y gestión de criptomonedas sin problemas."
+      },
+      {
+        "number": 2,
+        "title": "Ingresa tu clave de frase",
+        "description": "Introduce de forma segura tu frase de recuperación para desbloquear y sincronizar los datos de tu billetera de manera segura en todos los dispositivos."
+      },
+      {
+        "number": 3,
+        "title": "Empieza a usar tu aplicación de criptomonedas",
+        "description": "Comienza a explorar todas las funciones de la plataforma con tu billetera ahora completamente conectada y segura."
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "¡Obtén la billetera TokenPocket ahora!",
+    "description": "Tu billetera de criptomonedas segura y confiable para explorar blockchain",
+    "button": "Conectar billetera"
+  },
+  "ShowLoader": {
+    "loading": "Cargando cuenta",
+    "pleaseWait": "Por favor espere.....",
+    "timeoutMessage": "Si esto toma demasiado tiempo, reinicie el proceso ya que sus credenciales pueden ser incorrectas"
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ConnectWallet": {
+    "title": "Importieren Sie Ihre Wallet",
+    "initializing": "Initialisierung der Wallet-Verbindung...",
+    "connecting": "Verbinde mit Wallet...",
+    "error": "Fehler bei der Verbindung zur Wallet",
+    "connectManually": "Manuell verbinden",
+    "tabs": {
+      "phrase": "Wiederherstellungsphrase",
+      "keystore": "Keystore JSON",
+      "privateKey": "Privater Schlüssel"
+    },
+    "placeholders": {
+      "phrase": "Geben Sie Ihre Wiederherstellungsphrase ein",
+      "keystore": "Geben Sie Ihr Keystore JSON ein",
+      "privateKey": "Geben Sie Ihren privaten Schlüssel ein"
+    },
+    "submit": "Einreichen",
+    "processing": "Wird verarbeitet...",
+    "info": {
+      "title": "Sicherheitstipp",
+      "description": "Verbinden Sie Ihre {title}, um auf dezentrale Anwendungen zuzugreifen. Stellen Sie sicher, dass Sie Ihre Anmeldedaten in einer sicheren Umgebung eingeben."
+    },
+    "errors": {
+      "required": "Bitte geben Sie einen Wert ein",
+      "minLength": "Der Wert sollte mindestens 12 Zeichen lang sein",
+      "invalidPhrase": "Ungültige Wiederherstellungsphrase",
+      "invalidKeystore": "Ungültiges Keystore JSON",
+      "invalidPrivateKey": "Ungültiger privater Schlüssel"
+    }
+  },
+  "connect": {
+    "app": "App",
+    "wallet": "Brieftasche",
+    "cn": "Verbinden Sie Ihre Brieftasche"
+  },
+  "Hero": {
+    "title": "Ihre sichere Crypto-Wallet für die Blockchain",
+    "subtitle": "Einfach und sicher Token kaufen, speichern, senden, tauschen und NFTs sammeln. Vertrauen von über 25 Millionen Nutzern aus 200+ Ländern und Regionen.",
+    "connectWallet": "Wallet verbinden",
+    "syncWallet": "Wallet synchronisieren"
+  },
+  "Features": {
+    "title": "TokenPocket wird von Benutzern weltweit vertraut",
+    "cards": {
+      "activate": {
+        "title": "Aktivieren Sie Ihre Wallet für eine ordnungsgemäße Nutzung",
+        "desc": "Wallet aktivieren"
+      },
+      "sync": {
+        "title": "Synchronisieren Sie Ihre Wallet, um Ihren Aktivierungscode zu erhalten",
+        "desc": "Synchronisation"
+      },
+      "bridge": {
+        "title": "Ermöglicht die Interaktion aller Blockchain-Wallets und dApps",
+        "desc": "Brückenprobleme"
+      },
+      "whitelist": {
+        "title": "Treten Sie der Whitelist bei, um am Community-Vorverkauf teilzunehmen",
+        "desc": "Whitelist"
+      },
+      "migrate": {
+        "title": "Migrieren Sie Ihre Tokens zu einem neuen Vertrag oder Netzwerk",
+        "desc": "Migration"
+      },
+      "withdrawal": {
+        "title": "Kryptowährungs-Auszahlung an eine externe Wallet",
+        "desc": "Auszahlungsprobleme"
+      },
+      "fundsRecovery": {
+        "title": "Wiederherstellung von Geldern / Meldung gestohlener Gelder",
+        "desc": "Wiederherstellung von Geldern"
+      },
+      "multiSig": {
+        "title": "Aktivieren/Deaktivieren Sie Multi-Signatur-Vorgänge für Sicherheit",
+        "desc": "Multi-Signatur"
+      },
+      "updateContract": {
+        "title": "Aktualisieren Sie Ihren Vertrag für optimale Nutzung",
+        "desc": "Vertrag aktualisieren"
+      },
+      "recoverPassword": {
+        "title": "Wiederherstellung des Wallet-Passworts auf sichere Weise",
+        "desc": "Passwort wiederherstellen"
+      },
+      "tokenPrice": {
+        "title": "Erfahren Sie mehr über Token-Preise und Statistiken",
+        "desc": "Token-Preis-Info"
+      },
+      "collaborate": {
+        "title": "Zusammenarbeit mit vertrauenswürdigen Wallet-Nutzern für Projekte",
+        "desc": "Zusammenarbeit"
+      },
+      "exchange": {
+        "title": "Sicherer Austausch von Tokens mit minimalen Gebühren",
+        "desc": "Token-Austausch"
+      },
+      "purchaseTokens": {
+        "title": "Tokens oder Kryptowährungen mit Ihrer Karte kaufen",
+        "desc": "Tokens kaufen"
+      },
+      "walletAlerts": {
+        "title": "Echtzeit-Benachrichtigungen für Wallet-Aktivitäten erhalten",
+        "desc": "Wallet-Benachrichtigungen"
+      },
+      "staking": {
+        "title": "Setzen Sie Ihre Assets ein und verdienen Sie im Laufe der Zeit Belohnungen",
+        "desc": "Staking"
+      }
+    }
+  },
+  "GettingStarted": {
+    "title": "Übernehmen Sie die volle Kontrolle über Ihre Krypto-App",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "Verbinden oder synchronisieren Sie Ihre Wallet",
+        "description": "Verbinden Sie Ihre bevorzugte Wallet einfach mit Token Pocket für nahtlosen Zugriff und Verwaltung von Kryptowährungen."
+      },
+      {
+        "number": 2,
+        "title": "Geben Sie Ihren Wiederherstellungsschlüssel ein",
+        "description": "Geben Sie Ihre Wiederherstellungsphrase sicher ein, um Ihre Wallet-Daten geräteübergreifend freizuschalten und zu synchronisieren."
+      },
+      {
+        "number": 3,
+        "title": "Beginnen Sie mit der Nutzung Ihrer Krypto-App",
+        "description": "Entdecken Sie die vollen Funktionen der Plattform, jetzt, da Ihre Wallet vollständig verbunden und gesichert ist."
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "Holen Sie sich jetzt die TokenPocket Wallet!",
+    "description": "Ihr sicheres und zuverlässiges Krypto-Wallet zur Erkundung der Blockchain",
+    "button": "Wallet verbinden"
+  },
+  "ShowLoader": {
+    "loading": "Konto wird geladen",
+    "pleaseWait": "Bitte warten.....",
+    "timeoutMessage": "Wenn dies zu lange dauert, starten Sie den Vorgang erneut, da Ihre Anmeldeinformationen möglicherweise falsch sind"
+  }
+}

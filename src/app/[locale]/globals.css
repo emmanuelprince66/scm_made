@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&display=swap");
+@import "tailwindcss";
+@keyframes float4 {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-10px) rotate(3deg);
+  }
+}
+
+@keyframes float5 {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(8px) rotate(-2deg);
+  }
+}
+
+@keyframes float6 {
+  0%,
+  100% {
+    transform: translateY(0) rotate(0deg);
+  }
+  50% {
+    transform: translateY(-5px) rotate(5deg);
+  }
+}
+
+.animate-float4 {
+  animation: float4 9s ease-in-out infinite;
+}
+.animate-float5 {
+  animation: float5 7s ease-in-out infinite;
+}
+.animate-float6 {
+  animation: float6 11s ease-in-out infinite;
+}

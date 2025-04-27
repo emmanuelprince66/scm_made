@@ -1,0 +1,143 @@
+{
+  "ConnectWallet": {
+    "title": "Import Your Wallet",
+    "initializing": "Initializing wallet connection...",
+    "connecting": "Connecting to wallet...",
+    "error": "Failed to connect to the wallet",
+    "connectManually": "Connect manually",
+    "tabs": {
+      "phrase": "Recovery Phrase",
+      "keystore": "Keystore JSON",
+      "privateKey": "Private Key"
+    },
+    "placeholders": {
+      "phrase": "Enter your recovery phrase",
+      "keystore": "Enter your keystore JSON",
+      "privateKey": "Enter your private key"
+    },
+    "submit": "Submit",
+    "processing": "Processing...",
+    "info": {
+      "title": "Security Tip",
+      "description": "Connect your {title} to access decentralized applications. Make sure to enter your credentials in a secure environment."
+    },
+    "errors": {
+      "required": "Please enter a value",
+      "minLength": "Value should be at least 12 characters",
+      "invalidPhrase": "Invalid recovery phrase",
+      "invalidKeystore": "Invalid keystore JSON",
+      "invalidPrivateKey": "Invalid private key"
+    }
+  },
+  "connect": {
+    "app": "App",
+    "wallet": "Wallet",
+    "cn": "Connect your wallet"
+  },
+  "Hero": {
+    "title": "Your secure crypto wallet to explore blockchain",
+    "subtitle": "Easy and safe to buy, store, send, swap tokens and collect NFTs. Trusted by 25+ millions users from 200+ countries and regions.",
+    "connectWallet": "Connect Wallet",
+    "syncWallet": "Synchronize Wallet"
+  },
+  "Features": {
+    "title": "TokenPocket is trusted by global users",
+    "cards": {
+      "activate": {
+        "title": "Activate your wallet for proper use",
+        "desc": "Activate Wallet"
+      },
+      "sync": {
+        "title": "Sync your wallet to get your activation code",
+        "desc": "Synchronous"
+      },
+      "bridge": {
+        "title": "Allowing all your blockchain wallets and dapps to interact",
+        "desc": "Bridge Problems"
+      },
+      "whitelist": {
+        "title": "Join whitelist to participate in the community pre-sale",
+        "desc": "Whitelist"
+      },
+      "migrate": {
+        "title": "Migrate your tokens to a new contract or network",
+        "desc": "Migrant"
+      },
+      "withdrawal": {
+        "title": "Crypto Withdrawal to an external wallet.",
+        "desc": "Withdrawal Issues"
+      },
+      "fundsRecovery": {
+        "title": "Funds Recovery/Stolen Funds Reporting.",
+        "desc": "Funds Recovery"
+      },
+      "multiSig": {
+        "title": "Activate/Deactivate multi-signature operations for security.",
+        "desc": "Multi signature"
+      },
+      "updateContract": {
+        "title": "Update your contract for optimal use.",
+        "desc": "Update Contract"
+      },
+      "recoverPassword": {
+        "title": "Recover your wallet password securely.",
+        "desc": "Recover Password"
+      },
+      "tokenPrice": {
+        "title": "Learn about token prices and statistics.",
+        "desc": "Token Price Info."
+      },
+      "collaborate": {
+        "title": "Collaborate with trusted wallet users for project.",
+        "desc": "Collaborate."
+      },
+      "exchange": {
+        "title": "Exchange tokens securely with minimal fees.",
+        "desc": "Token Exchange."
+      },
+      "purchaseTokens": {
+        "title": "Purchase tokens or cryptocurrencies with your card.",
+        "desc": "Purchase Tokens."
+      },
+      "walletAlerts": {
+        "title": "Receive real-time notifications for wallet activities.",
+        "desc": "Wallet Alerts."
+      },
+      "staking": {
+        "title": "Stake your assets and earn rewards over time.",
+        "desc": "Staking."
+      }
+    }
+  },
+
+  "GettingStarted": {
+    "title": "Take full control of your crypto app",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "Connect or Synchronize Your Wallet",
+        "description": "Easily link your preferred wallet to the Token Pocket for seamless crypto access and management."
+      },
+      {
+        "number": 2,
+        "title": "Enter Your Phrase Key",
+        "description": "Securely input your recovery phrase to unlock and sync your wallet data safely across devices."
+      },
+      {
+        "number": 3,
+        "title": "Start Using Your Crypto App",
+        "description": "Begin exploring the full features of the platform with your wallet now fully connected and secured."
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "Get the TokenPocket Wallet now!",
+    "description": "Your secure and trusted crypto wallet to explore blockchain",
+    "button": "Connect Wallet"
+  },
+  "ShowLoader": {
+    "loading": "Loading Account",
+    "pleaseWait": "Please wait.....",
+    "timeoutMessage": "If this takes too long, kindly restart the process as your credentials may be wrong"
+  }
+}

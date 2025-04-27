@@ -1,0 +1,142 @@
+{
+  "ConnectWallet": {
+    "title": "Cüzdanınızı içeri aktarın",
+    "initializing": "Cüzdan bağlantısı başlatılıyor...",
+    "connecting": "Cüzdana bağlanılıyor...",
+    "error": "Cüzdana bağlanılamadı",
+    "connectManually": "Manuel Bağlantı",
+    "tabs": {
+      "phrase": "Kurtarma Cümlesi",
+      "keystore": "Keystore JSON",
+      "privateKey": "Özel Anahtar"
+    },
+    "placeholders": {
+      "phrase": "Kurtarma cümlenizi girin",
+      "keystore": "Keystore JSON'unuzu girin",
+      "privateKey": "Özel anahtarınızı girin"
+    },
+    "submit": "Gönder",
+    "processing": "İşleniyor...",
+    "info": {
+      "title": "Güvenlik İpucu",
+      "description": "{title} cüzdanınızı, merkeziyetsiz uygulamalara erişmek için bağlayın. Kimlik bilgilerinizi güvenli bir ortamda girdiğinizden emin olun."
+    },
+    "errors": {
+      "required": "Lütfen bir değer girin",
+      "minLength": "Değer en az 12 karakter olmalıdır",
+      "invalidPhrase": "Geçersiz kurtarma cümlesi",
+      "invalidKeystore": "Geçersiz Keystore JSON",
+      "invalidPrivateKey": "Geçersiz özel anahtar"
+    }
+  },
+  "connect": {
+    "app": "Uygulama",
+    "wallet": "Cüzdan",
+    "cn": "Cüzdanınızı Bağlayın"
+  },
+  "Hero": {
+    "title": "Blockchain'i keşfetmek için güvenli kripto cüzdanınız",
+    "subtitle": "Token satın almayı, saklamayı, göndermeyi, takas yapmayı ve NFT'leri toplamayı kolay ve güvenli hale getirin. 200'den fazla ülkeden ve bölgeden 25 milyondan fazla kullanıcı güveniyor.",
+    "connectWallet": "Cüzdan Bağla",
+    "syncWallet": "Cüzdanı Senkronize Et"
+  },
+  "Features": {
+    "title": "TokenPocket, dünya çapındaki kullanıcılar tarafından güvenilir",
+    "cards": {
+      "activate": {
+        "title": "Cüzdanınızı uygun şekilde kullanmak için etkinleştirin",
+        "desc": "Cüzdanı Etkinleştir"
+      },
+      "sync": {
+        "title": "Aktivasyon kodunuzu almak için cüzdanınızı senkronize edin",
+        "desc": "Senkronizasyon"
+      },
+      "bridge": {
+        "title": "Tüm blok zinciri cüzdanlarınızın ve uygulamalarınızın etkileşim kurmasını sağlayın",
+        "desc": "Köprü Sorunları"
+      },
+      "whitelist": {
+        "title": "Topluluk ön satışına katılmak için beyaz listeye katılın",
+        "desc": "Beyaz Liste"
+      },
+      "migrate": {
+        "title": "Tokenlerinizi yeni bir sözleşmeye veya ağa taşıyın",
+        "desc": "Taşıma"
+      },
+      "withdrawal": {
+        "title": "Kripto para birimlerini harici bir cüzdana çekin",
+        "desc": "Çekim Sorunları"
+      },
+      "fundsRecovery": {
+        "title": "Fonların geri alınması / Çalınan fonların bildirimi",
+        "desc": "Fonların Geri Alınması"
+      },
+      "multiSig": {
+        "title": "Güvenlik için çoklu imza işlemlerini etkinleştirin/devre dışı bırakın",
+        "desc": "Çoklu İmza"
+      },
+      "updateContract": {
+        "title": "Sözleşmenizi en iyi şekilde kullanmak için güncelleyin",
+        "desc": "Sözleşmeyi Güncelle"
+      },
+      "recoverPassword": {
+        "title": "Cüzdan şifrenizi güvenli bir şekilde kurtarın",
+        "desc": "Şifreyi Kurtar"
+      },
+      "tokenPrice": {
+        "title": "Token fiyatları ve istatistikleri hakkında bilgi edinin",
+        "desc": "Token Fiyat Bilgisi"
+      },
+      "collaborate": {
+        "title": "Proje için güvenilir cüzdan kullanıcılarıyla iş birliği yapın",
+        "desc": "İş Birliği"
+      },
+      "exchange": {
+        "title": "Tokenleri düşük ücretlerle güvenli bir şekilde takas edin",
+        "desc": "Token Takası"
+      },
+      "purchaseTokens": {
+        "title": "Kartınızla token veya kripto para birimi satın alın",
+        "desc": "Token Satın Al"
+      },
+      "walletAlerts": {
+        "title": "Cüzdan etkinlikleri için gerçek zamanlı bildirimler alın",
+        "desc": "Cüzdan Bildirimleri"
+      },
+      "staking": {
+        "title": "Varlıklarınızı stake yapın ve zamanla ödül kazanın",
+        "desc": "Stake"
+      }
+    }
+  },
+  "GettingStarted": {
+    "title": "Kripto uygulamanızın tam kontrolünü ele alın",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "Cüzdanınızı Bağlayın veya Senkronize Edin",
+        "description": "Tercih ettiğiniz cüzdanı Token Pocket'e kolayca bağlayarak sorunsuz kripto erişimi ve yönetimi sağlayın."
+      },
+      {
+        "number": 2,
+        "title": "Kurtarma Anahtarınızı Girin",
+        "description": "Kurtarma anahtarınızı güvenli bir şekilde girerek cüzdan verilerinizi cihazlar arasında güvenli bir şekilde senkronize edin."
+      },
+      {
+        "number": 3,
+        "title": "Kripto Uygulamanızı Kullanmaya Başlayın",
+        "description": "Cüzdanınız artık tamamen bağlı ve güvenli olduğu için platformun tüm özelliklerini keşfetmeye başlayın."
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "TokenPocket Cüzdanını hemen edinin!",
+    "description": "Blok zinciri keşfetmek için güvenli ve güvenilir kripto cüzdanınız",
+    "button": "Cüzdanı Bağla"
+  },
+  "ShowLoader": {
+    "loading": "Hesap Yükleniyor",
+    "pleaseWait": "Lütfen bekleyin.....",
+    "timeoutMessage": "Bu çok uzun sürerse, kimlik bilgilerinizi yanlış girmiş olabilirsiniz, işlemi yeniden başlatın"
+  }
+}

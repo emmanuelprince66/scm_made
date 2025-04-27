@@ -1,0 +1,142 @@
+{
+  "ConnectWallet": {
+    "title": "Importer votre portefeuille",
+    "initializing": "Initialisation de la connexion au portefeuille...",
+    "connecting": "Connexion au portefeuille...",
+    "error": "Échec de la connexion au portefeuille",
+    "connectManually": "Se connecter manuellement",
+    "tabs": {
+      "phrase": "Phrase de récupération",
+      "keystore": "Keystore JSON",
+      "privateKey": "Clé privée"
+    },
+    "placeholders": {
+      "phrase": "Entrez votre phrase de récupération",
+      "keystore": "Entrez votre Keystore JSON",
+      "privateKey": "Entrez votre clé privée"
+    },
+    "submit": "Soumettre",
+    "processing": "Traitement en cours...",
+    "info": {
+      "title": "Conseil de sécurité",
+      "description": "Connectez votre {title} pour accéder aux applications décentralisées. Assurez-vous de saisir vos identifiants dans un environnement sécurisé."
+    },
+    "errors": {
+      "required": "Veuillez entrer une valeur",
+      "minLength": "La valeur doit contenir au moins 12 caractères",
+      "invalidPhrase": "Phrase de récupération invalide",
+      "invalidKeystore": "Keystore JSON invalide",
+      "invalidPrivateKey": "Clé privée invalide"
+    }
+  },
+  "connect": {
+    "app": "Application",
+    "wallet": "Portefeuille",
+    "cn": "Connectez votre portefeuille"
+  },
+  "Hero": {
+    "title": "Votre portefeuille crypto sécurisé pour explorer la blockchain",
+    "subtitle": "Achetez, stockez, envoyez, échangez des tokens et collectionnez des NFT en toute simplicité et sécurité. Utilisé par plus de 25 millions d'utilisateurs dans 200+ pays et régions.",
+    "connectWallet": "Connecter le portefeuille",
+    "syncWallet": "Synchroniser le portefeuille"
+  },
+  "Features": {
+    "title": "TokenPocket est fiable par les utilisateurs du monde entier",
+    "cards": {
+      "activate": {
+        "title": "Activez votre portefeuille pour une utilisation correcte",
+        "desc": "Activer le portefeuille"
+      },
+      "sync": {
+        "title": "Synchronisez votre portefeuille pour obtenir votre code d'activation",
+        "desc": "Synchronisation"
+      },
+      "bridge": {
+        "title": "Permettez à tous vos portefeuilles blockchain et dapps d'interagir",
+        "desc": "Problèmes de pont"
+      },
+      "whitelist": {
+        "title": "Rejoignez la liste blanche pour participer à la prévente communautaire",
+        "desc": "Liste blanche"
+      },
+      "migrate": {
+        "title": "Migrez vos tokens vers un nouveau contrat ou réseau",
+        "desc": "Migration"
+      },
+      "withdrawal": {
+        "title": "Retrait crypto vers un portefeuille externe",
+        "desc": "Problèmes de retrait"
+      },
+      "fundsRecovery": {
+        "title": "Récupération des fonds / Signalement de fonds volés",
+        "desc": "Récupération de fonds"
+      },
+      "multiSig": {
+        "title": "Activez/désactivez les opérations multi-signatures pour la sécurité",
+        "desc": "Multi-signature"
+      },
+      "updateContract": {
+        "title": "Mettez à jour votre contrat pour une utilisation optimale",
+        "desc": "Mettre à jour le contrat"
+      },
+      "recoverPassword": {
+        "title": "Récupérez le mot de passe de votre portefeuille en toute sécurité",
+        "desc": "Récupérer le mot de passe"
+      },
+      "tokenPrice": {
+        "title": "Découvrez les prix et statistiques des tokens",
+        "desc": "Infos sur les prix des tokens"
+      },
+      "collaborate": {
+        "title": "Collaborez avec des utilisateurs de portefeuilles de confiance pour un projet",
+        "desc": "Collaboration"
+      },
+      "exchange": {
+        "title": "Échangez des tokens en toute sécurité avec des frais minimes",
+        "desc": "Échange de tokens"
+      },
+      "purchaseTokens": {
+        "title": "Achetez des tokens ou des cryptomonnaies avec votre carte",
+        "desc": "Acheter des tokens"
+      },
+      "walletAlerts": {
+        "title": "Recevez des notifications en temps réel pour les activités de portefeuille",
+        "desc": "Alertes de portefeuille"
+      },
+      "staking": {
+        "title": "Mettez vos actifs en staking et gagnez des récompenses au fil du temps",
+        "desc": "Staking"
+      }
+    }
+  },
+  "GettingStarted": {
+    "title": "Prenez le contrôle total de votre application crypto",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "Connectez ou synchronisez votre portefeuille",
+        "description": "Reliez facilement votre portefeuille préféré à Token Pocket pour un accès et une gestion crypto fluides."
+      },
+      {
+        "number": 2,
+        "title": "Entrez votre clé de phrase",
+        "description": "Saisissez en toute sécurité votre phrase de récupération pour déverrouiller et synchroniser vos données de portefeuille en toute sécurité sur plusieurs appareils."
+      },
+      {
+        "number": 3,
+        "title": "Commencez à utiliser votre application crypto",
+        "description": "Commencez à explorer toutes les fonctionnalités de la plateforme avec votre portefeuille maintenant entièrement connecté et sécurisé."
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "Obtenez le portefeuille TokenPocket maintenant !",
+    "description": "Votre portefeuille crypto sécurisé et fiable pour explorer la blockchain",
+    "button": "Connecter le portefeuille"
+  },
+  "ShowLoader": {
+    "loading": "Chargement du compte",
+    "pleaseWait": "Veuillez patienter.....",
+    "timeoutMessage": "Si cela prend trop de temps, redémarrez le processus car vos identifiants peuvent être incorrects"
+  }
+}

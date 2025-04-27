@@ -1,0 +1,142 @@
+{
+  "ConnectWallet": {
+    "title": "导入您的钱包",
+    "initializing": "正在初始化钱包连接...",
+    "connecting": "正在连接钱包...",
+    "error": "连接钱包失败",
+    "connectManually": "手动连接",
+    "tabs": {
+      "phrase": "恢复短语",
+      "keystore": "Keystore JSON",
+      "privateKey": "私钥"
+    },
+    "placeholders": {
+      "phrase": "请输入您的恢复短语",
+      "keystore": "请输入您的Keystore JSON",
+      "privateKey": "请输入您的私钥"
+    },
+    "submit": "提交",
+    "processing": "处理中...",
+    "info": {
+      "title": "安全提示",
+      "description": "连接您的{title}以访问去中心化应用程序。确保在安全的环境中输入您的凭据。"
+    },
+    "errors": {
+      "required": "请输入值",
+      "minLength": "值应该至少包含12个字符",
+      "invalidPhrase": "无效的恢复短语",
+      "invalidKeystore": "无效的Keystore JSON",
+      "invalidPrivateKey": "无效的私钥"
+    }
+  },
+  "connect": {
+    "app": "应用程序",
+    "wallet": "钱包",
+    "cn": "连接您的钱包"
+  },
+  "Hero": {
+    "title": "您的安全加密钱包，用于探索区块链",
+    "subtitle": "轻松安全地购买、存储、发送、交换代币和收集NFT。全球200多个国家和地区超过2500万用户信任。",
+    "connectWallet": "连接钱包",
+    "syncWallet": "同步钱包"
+  },
+  "Features": {
+    "title": "TokenPocket受全球用户信赖",
+    "cards": {
+      "activate": {
+        "title": "激活您的钱包以正确使用",
+        "desc": "激活钱包"
+      },
+      "sync": {
+        "title": "同步您的钱包以获取激活码",
+        "desc": "同步"
+      },
+      "bridge": {
+        "title": "允许所有区块链钱包和去中心化应用交互",
+        "desc": "桥接问题"
+      },
+      "whitelist": {
+        "title": "加入白名单参与社区预售",
+        "desc": "白名单"
+      },
+      "migrate": {
+        "title": "将您的代币迁移到新的合约或网络",
+        "desc": "迁移"
+      },
+      "withdrawal": {
+        "title": "将加密货币提取到外部钱包",
+        "desc": "提现问题"
+      },
+      "fundsRecovery": {
+        "title": "资金恢复/被盗资金报告",
+        "desc": "资金恢复"
+      },
+      "multiSig": {
+        "title": "激活/停用多重签名操作以提高安全性",
+        "desc": "多重签名"
+      },
+      "updateContract": {
+        "title": "更新您的合约以优化使用",
+        "desc": "更新合约"
+      },
+      "recoverPassword": {
+        "title": "安全地恢复您的钱包密码",
+        "desc": "恢复密码"
+      },
+      "tokenPrice": {
+        "title": "了解代币价格和统计信息",
+        "desc": "代币价格信息"
+      },
+      "collaborate": {
+        "title": "与可信钱包用户合作完成项目",
+        "desc": "合作"
+      },
+      "exchange": {
+        "title": "以最低手续费安全交换代币",
+        "desc": "代币交换"
+      },
+      "purchaseTokens": {
+        "title": "使用您的信用卡购买代币或加密货币",
+        "desc": "购买代币"
+      },
+      "walletAlerts": {
+        "title": "接收钱包活动的实时通知",
+        "desc": "钱包提醒"
+      },
+      "staking": {
+        "title": "质押您的资产并随着时间获得奖励",
+        "desc": "质押"
+      }
+    }
+  },
+  "GettingStarted": {
+    "title": "全面掌控您的加密应用程序",
+    "progressSteps": [
+      {
+        "number": 1,
+        "title": "连接或同步您的钱包",
+        "description": "轻松将您首选的钱包链接到Token Pocket，以实现无缝的加密货币访问和管理。"
+      },
+      {
+        "number": 2,
+        "title": "输入您的恢复短语密钥",
+        "description": "安全输入您的恢复短语，以安全地跨设备解锁和同步您的钱包数据。"
+      },
+      {
+        "number": 3,
+        "title": "开始使用您的加密应用",
+        "description": "现在您的钱包已经完全连接并且安全，开始探索平台的全部功能。"
+      }
+    ]
+  },
+  "BeforeFooter": {
+    "title": "立即获取TokenPocket钱包！",
+    "description": "您安全可靠的加密钱包，用于探索区块链",
+    "button": "连接钱包"
+  },
+  "ShowLoader": {
+    "loading": "加载账户",
+    "pleaseWait": "请稍候.....",
+    "timeoutMessage": "如果这花费太长时间，请重新启动该过程，因为您的凭据可能错误"
+  }
+}
