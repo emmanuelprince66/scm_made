@@ -1,9 +1,13 @@
-[[redirects]]
-  from = "/*"
-  to = "/en/home"
-  status = 302
+[build]
+  command = "npm run build"
+  publish = "out"
 
 [[redirects]]
   from = "/"
   to = "/en/home"
-  status = 302
+  status = 301
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

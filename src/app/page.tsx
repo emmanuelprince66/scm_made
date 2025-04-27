@@ -1,8 +1,5 @@
-export default function Page() {
-  // Redirect to default locale
-  return (
-    <>
-      <div>hello</div>
-    </>
-  );
+import { redirect } from "next/navigation";
+
+export default function RootPage() {
+  redirect("/en/home");
 }
